@@ -1,4 +1,4 @@
-## 🧨 Hey, you found NAVADMIN Viewer's open source repository.
+## 🧨 Hey, you found NAVADMIN Viewer's open source repository
 
 NAVADMIN Viewer lets you read and search within Navy and Marine Corps messages anywhere.
 
@@ -9,4 +9,4 @@ NAVADMIN Viewer lets you read and search within Navy and Marine Corps messages a
 
 ### ✉️ Inquiries
 
-If you found this page you probably know what you're doing or have questions. Please send a message to support@ansonliu.com. 
+If you found this page you probably know what you're doing or have questions. Please reach me at support@ansonliu.com. 
