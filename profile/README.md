@@ -39,6 +39,11 @@ The app automatically retrieves the latest NAVADMIN, ALNAV, MARADMIN, and ALMARS
 | 🚧 | On roadmap |
 | __N/A__ | Not Applicable |
 
+### Enabling Notifications for New Messages on iOS
+
+NAVADMIN Viewer on iOS requires the app Notifications and Background App Refresh access options to be enabled in Settings > Apps > NAVADMIN in order to notify you of new messages.
+
+![NAVADMIN Viewer enabling notifications settings screenshot](https://navadmin-viewer.github.io/assets/navadmin-viewer-notification-settings.png)
 
 ### ✉️ Contact & Consulting
 
