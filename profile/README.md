@@ -11,6 +11,8 @@ The app automatically retrieves the latest NAVADMIN, ALNAV, MARADMIN, and ALMARS
 - [Android](https://play.google.com/store/apps/details?id=com.ansonliu.navadmin)
 - [Web](https://navadmin-viewer.github.io)
 
+- [Service Status](https://stats.uptimerobot.com/f9OHeT9uyz)
+
 ### Feature Roadmap
 
 | Feature      | [iOS](https://apps.apple.com/us/app/navadmin-viewer/id1345135985) | [Android](https://play.google.com/store/apps/details?id=com.ansonliu.navadmin) | [Web](https://navadmin-viewer.github.io/) |
