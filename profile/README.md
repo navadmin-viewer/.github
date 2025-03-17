@@ -23,7 +23,7 @@ The app automatically retrieves the latest NAVADMIN, ALNAV, MARADMIN, and ALMARS
 | All MARADMIN/ALMARs (~2015 and later) | ✅ | ✅ | ✅ |
 | All numbered DoD/DoN issuances | 🚧 |  | 🚧 |
 | Full message search   | ✅ | ✅ | 🟡/🚧 (title only) |
-| Offline messages | ✅ | ✅ | ✅/🚧 (only previously viewed messages) |
+| Offline messages | ✅ | ✅ | ✅/🚧* |
 | Notifications on new message release | ✅ | 🚧 | 🚧 |
 | Message popularity ranking | ✅ |  | ✅ |
 | Auto-detection of referenced publications | ✅ | 🚧 | 🚧 |
@@ -40,6 +40,8 @@ The app automatically retrieves the latest NAVADMIN, ALNAV, MARADMIN, and ALMARS
 | 🟡 | Partial support |
 | 🚧 | On roadmap |
 | __N/A__ | Not Applicable |
+
+##### *Web browsers limit offline storage to 5MiB so all messages are not automatically downloaded to avoid running exhausting space.
 
 ### Enabling Notifications for New Messages on iOS
 
