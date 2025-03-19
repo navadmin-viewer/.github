@@ -78,7 +78,7 @@ I am a Navy veteran who dabbles in software engineering. I make solutions to pro
 
 - **Are you charging money for public data?**
 
-  No, the data is publicly available on the NavyHR and Marine Online websites. NAVADMIN Viewer is free to use. While the data may be public, the app does not make itself. The iOS app has an [optional in-app purchase](https://ansonliu.com/2022/09/navadmin-viewer-update-extended-access/) which supports my maintenance and development of NAVADMIN Viewer.
+  No, the data is publicly available on the NavyHR and Marine Online websites. NAVADMIN Viewer app is free to use. The iOS app has an [optional in-app purchase](https://ansonliu.com/2022/09/navadmin-viewer-update-extended-access/) which supports my development of NAVADMIN Viewer. **While the data may be free, my time is not.** I am grateful to those who have contributed and made maintenance of NAVADMIN Viewer possible.
 
   If you know the right people at DoN/OPNAV to make this app official, please connect us because I would love to spend more time adding features to the app and make it accessible to sailors and civilians for free. Please.
 
