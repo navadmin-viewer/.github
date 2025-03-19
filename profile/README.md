@@ -30,7 +30,7 @@ Click the link for your device type
 
 I am a Navy veteran who dabbles in software engineering. I make solutions to problems and hope that NAVADMIN Viewer is useful to you.
 
-[![anson liu website](https://img.shields.io/badge/ANSONLIU.COM-FFFFFF?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/console/) [![anson liu github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansonl) [![anson liu linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/console/) [![anson liu youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqC8y5FsFaAwKkbZu25xY_g) [![anson liu printables](https://img.shields.io/badge/Printables-FA6831?style=for-the-badge&logo=printables&logoColor=white)](https://www.printables.com/@ansonl/)
+[![anson liu website](https://img.shields.io/badge/ANSONLIU.COM-FFFFFF?style=for-the-badge&logo=&logoColor=white)](https://ansonliu.com) [![anson liu github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansonl) [![anson liu linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/console/) [![anson liu youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqC8y5FsFaAwKkbZu25xY_g) [![anson liu printables](https://img.shields.io/badge/Printables-FA6831?style=for-the-badge&logo=printables&logoColor=white)](https://www.printables.com/@ansonl/)
 
 ## 🚧 Feature Roadmap
 
