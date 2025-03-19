@@ -6,7 +6,7 @@ The app automatically retrieves the latest NAVADMIN, ALNAV, MARADMIN, and ALMARS
 
 ***NAVADMIN Viewer is an independent project developed in my free time.***
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Use NAVADMIN App](#-use-navadmin-viewer-app)
 
@@ -90,7 +90,7 @@ I am a Navy veteran who dabbles in software engineering. I make solutions to pro
 
   [Email me](mailto:support@ansonliu.com)
 
-## Common Issues
+## 🔧 Common Issues
 
 ### Enabling Notifications for New Messages on iOS
 
