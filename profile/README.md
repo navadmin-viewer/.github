@@ -24,8 +24,6 @@ Click the link for your device type
 - [Android](https://play.google.com/store/apps/details?id=com.ansonliu.navadmin)
 - [Web](https://navadmin-viewer.github.io) - [details](https://github.com/navadmin-viewer/navadmin-viewer.github.io/blob/master/README.md)
 
-- [Service Status](https://stats.uptimerobot.com/f9OHeT9uyz)
-
 ## 🧨 About Anson Liu
 
 I am a Navy veteran who dabbles in software engineering. I make solutions to problems and hope that NAVADMIN Viewer is useful to you.
