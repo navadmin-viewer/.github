@@ -99,6 +99,14 @@ NAVADMIN Viewer on iOS requires enabling the app's **Notifications** and **Backg
 
 ![NAVADMIN Viewer enabling notifications settings screenshot](https://navadmin-viewer.github.io/assets/navadmin-viewer-notification-settings.png)
 
+### Redownloading a Single Message
+
+Sometimes a message may be temporarily unavailable or the content is scrambled. You can try redownloading the message after an alert is sent out on the status of the app.
+
+- iOS: Swipe left on the message in the list and click redownload
+- Anroid: Reinstall the app
+- Web: Completely clear browser storage
+
 ## ✉️ Contact & Consulting
 
 The best way to reach me is by emailing me at [support@ansonliu.com](mailto:support@ansonliu.com).
