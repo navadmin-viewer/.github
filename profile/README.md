@@ -58,7 +58,7 @@ I am a Navy veteran who dabbles in software engineering. I make solutions to pro
 | 🚧 | On roadmap |
 | __N/A__ | Not Applicable |
 
-##### *Web browsers limit offline storage to 5MiB so all messages are not automatically downloaded to avoid running out of space.
+##### *Web browsers limit offline storage to 5MiB so only viewed messages are stored to avoid running out of space.
 
 ## ❔ FAQ
 
