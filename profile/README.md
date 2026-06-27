@@ -41,7 +41,7 @@ I am a Navy veteran who dabbles in software engineering. I make solutions to pro
 | All numbered DoD/DoN issuances | 🚧 |  | 🚧 |
 | Full message search   | ✅ | ✅ | 🟡/🚧 (title only) |
 | Offline messages | ✅ | ✅ | ✅* |
-| Notifications on new message release | ✅ | 🚧 | 🚧 |
+| Notifications on new message release | ✅ | ✅ | 🚧 |
 | Message popularity ranking | ✅ |  | ✅ |
 | Auto-detection of referenced publications | ✅ | 🚧 | ✅ |
 | Customizable message font | ✅ |  |  |
