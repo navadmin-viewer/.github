@@ -39,8 +39,8 @@ I am a Navy veteran who dabbles in software engineering. I make solutions to pro
 | All NAVADMIN/ALNAVs (~2010 and later) | ✅ | ✅ | ✅ |
 | All MARADMIN/ALMARs (~2015 and later) | ✅ | ✅ | ✅ |
 | All numbered DoD/DoN issuances | 🚧 |  | 🚧 |
-| Full message search   | ✅ | ✅ | 🟡/🚧 (title only) |
-| Offline messages | ✅ | ✅ | ✅* |
+| Full message search   | ✅ | ✅ | ✅ |
+| Offline messages | ✅ | ✅ | ✅ |
 | Notifications on new message release | ✅ | ✅ | 🚧 |
 | Message popularity ranking | ✅ |  | ✅ |
 | Auto-detection of referenced publications | ✅ | 🚧 | ✅ |
@@ -57,8 +57,6 @@ I am a Navy veteran who dabbles in software engineering. I make solutions to pro
 | 🟡 | Partial support |
 | 🚧 | On roadmap |
 | __N/A__ | Not Applicable |
-
-##### *Web browsers limit offline storage to 5MiB so only viewed messages are stored to avoid running out of space.
 
 ## ❔ FAQ
 
